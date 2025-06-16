@@ -1,0 +1,4 @@
+Word    Number of Times It Appears
+if      2
+better      8
+simple      1
